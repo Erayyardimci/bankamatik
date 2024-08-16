@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bankamatik_kurs_proje/1.0.0": {
+        "runtime": {
+          "bankamatik_kurs_proje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bankamatik_kurs_proje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

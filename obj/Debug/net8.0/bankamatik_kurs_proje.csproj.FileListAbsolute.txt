@@ -1,0 +1,14 @@
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\bin\Debug\net8.0\bankamatik_kurs_proje.exe
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\bin\Debug\net8.0\bankamatik_kurs_proje.deps.json
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\bin\Debug\net8.0\bankamatik_kurs_proje.runtimeconfig.json
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\bin\Debug\net8.0\bankamatik_kurs_proje.dll
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\bin\Debug\net8.0\bankamatik_kurs_proje.pdb
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\bankamatik_kurs_proje.GeneratedMSBuildEditorConfig.editorconfig
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\bankamatik_kurs_proje.AssemblyInfoInputs.cache
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\bankamatik_kurs_proje.AssemblyInfo.cs
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\bankamatik_kurs_proje.csproj.CoreCompileInputs.cache
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\bankamatik_kurs_proje.dll
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\refint\bankamatik_kurs_proje.dll
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\bankamatik_kurs_proje.pdb
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\bankamatik_kurs_proje.genruntimeconfig.cache
+D:\proje deneme\bankamatik_kurs_proje\bankamatik_kurs_proje\obj\Debug\net8.0\ref\bankamatik_kurs_proje.dll
